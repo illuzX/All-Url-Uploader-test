@@ -16,7 +16,6 @@ filetype
 tldextract
 aiofiles
 pyromod
-yt-dlp
 filesplit==4.0.0
 mega.py
 opencc
